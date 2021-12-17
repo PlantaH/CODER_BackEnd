@@ -1,0 +1,4 @@
+ 
+https://www.it-swarm-es.com/es/javascript/cuales-son-los-beneficios-de-usar-funciones-anonimas-en-lugar-de-funciones-con-nombre-para-devoluciones-de-llamada-y-parametros-en-el-codigo-de-evento-de-javascript/1067483341/
+
+https://ichi.pro/es/4-casos-de-uso-practicos-para-iife-en-javascript-110508916128381
