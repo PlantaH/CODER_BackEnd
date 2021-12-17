@@ -16,7 +16,7 @@ class Usuario {
     }
 
     getFullName(){
-        return (this.nombre + ' ' + this.apellido)
+        return (`Tu nombre es ${this.nombre} ${this.apellido}`)
     }
 
     addMascota(mascota){
@@ -24,7 +24,7 @@ class Usuario {
     }
 
     countMascotas(){
-        return (this.mascotas.length)
+        return (`Cantidad de mascotas  ${this.mascotas.length}`)
     }
 
     addBook(nombre,autor){
@@ -32,7 +32,7 @@ class Usuario {
     }
 
     getBookNames(){
-        return (this.libros.map((libro) => libro.nombre ))
+        return (`Tenes estos libros ${this.libros.map((libro) => libro.nombre )}`)
     }   
     
 }
