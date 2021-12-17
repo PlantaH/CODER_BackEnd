@@ -1,3 +1,16 @@
+
+/*
+function crearMultiplicador(num1) {
+	return function (num2) {
+		console.log(num1 * num2);
+	};
+}
+
+const multiplicador = crearMultiplicador(4);
+
+multiplicador(5);
+*/
+
 class Libro{
     constructor(nombre, autor) {
         this.nombre = nombre;
@@ -54,3 +67,6 @@ user.addBook('El tunel','Sabato')
 user.addBook('Rayuela','Cortazar')
 
 console.log(user.getBookNames())
+
+
+ 
