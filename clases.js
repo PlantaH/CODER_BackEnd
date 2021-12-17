@@ -46,6 +46,7 @@ console.log(user.getFullName())
 console.log(user.countMascotas())
 
 user.addMascota('canario')
+user.addMascota('elefante')
 
 console.log(user.countMascotas())
 
